@@ -11,15 +11,19 @@ class DataGraph:
 
 
 def get_graph(data, max_y=0):
+
     for index_list_block in data:
         data_X_for_normalization = list(
-            map(lambda uptime: (uptime - index_list_block[1][0]), index_list_block[1])
+            map(
+                lambda uptime: (uptime - index_list_block.box_x[0]),
+                index_list_block.box_x,
+            )
         )
 
         plt.plot(
             data_X_for_normalization,
-            index_list_block[2],
-            label=index_list_block[0],
+            index_list_block.box_y,
+            label=index_list_block.name,
             drawstyle="steps-mid",
         )
 

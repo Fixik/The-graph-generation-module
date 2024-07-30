@@ -1,4 +1,4 @@
-import main
+import main as main
 import json
 from io import BytesIO
 import PIL.Image as Image
@@ -6,7 +6,7 @@ from dataclasses import astuple
 
 
 def open_file():
-    with open("test.json", "r+") as file:
+    with open("json/test.json", "r+") as file:
         file = json.load(file)
         general_box = []
 
@@ -53,23 +53,41 @@ for index in range(0, len(spisok)):
 limit_y = 4000
 
 
-graph_2 = [
-    [spisok[0][0] + " used_memory ", spisok[0][4], spisok[0][5]],
-    [spisok[1][0] + " used_memory ", spisok[1][4], spisok[1][5]],
-]
-
-
 graph_1 = [
-    astuple(main.DataGraph(spisok[0][0] + " contracts ", spisok[0][4], spisok[0][1])),
-    astuple(main.DataGraph(spisok[0][0] + " descriptors ", spisok[0][4], spisok[0][2])),
-    astuple(main.DataGraph(spisok[1][0] + " contracts ", spisok[1][4], spisok[1][1])),
-    astuple(main.DataGraph(spisok[1][0] + " descriptors ", spisok[1][4], spisok[1][2])),
+    (
+        main.DataGraph(
+            name=spisok[0][0] + " contracts ", box_x=spisok[0][4], box_y=spisok[0][1]
+        )
+    ),
+    (
+        main.DataGraph(
+            name=spisok[0][0] + " descriptors ", box_x=spisok[0][4], box_y=spisok[0][2]
+        )
+    ),
+    (
+        main.DataGraph(
+            name=spisok[1][0] + " contracts ", box_x=spisok[1][4], box_y=spisok[1][1]
+        )
+    ),
+    (
+        main.DataGraph(
+            name=spisok[1][0] + " descriptors ", box_x=spisok[1][4], box_y=spisok[1][2]
+        )
+    ),
 ]
 
 
 graph_2 = [
-    astuple(main.DataGraph(spisok[0][0] + " used_memory ", spisok[0][4], spisok[0][5])),
-    astuple(main.DataGraph(spisok[1][0] + " used_memory ", spisok[1][4], spisok[1][5])),
+    (
+        main.DataGraph(
+            name=spisok[0][0] + " used_memory ", box_x=spisok[0][4], box_y=spisok[0][5]
+        )
+    ),
+    (
+        main.DataGraph(
+            name=spisok[1][0] + " used_memory ", box_x=spisok[1][4], box_y=spisok[1][5]
+        )
+    ),
 ]
 
 

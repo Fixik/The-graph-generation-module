@@ -1,0 +1,286 @@
+{
+    "pep1": [
+        {
+            "contracts": 0,
+            "descriptors": 7,
+            "total_memory": 3986,
+            "uptime": 10817,
+            "used_memory": 824
+        },
+        {
+            "contracts": 855,
+            "descriptors": 898,
+            "total_memory": 3986,
+            "uptime": 11147,
+            "used_memory": 825
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 11511,
+            "used_memory": 826
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 11869,
+            "used_memory": 824
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 12235,
+            "used_memory": 835
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 12601,
+            "used_memory": 862
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 12953,
+            "used_memory": 875
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 13305,
+            "used_memory": 883
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 13653,
+            "used_memory": 890
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 13995,
+            "used_memory": 888
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 14364,
+            "used_memory": 891
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 14702,
+            "used_memory": 894
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 15046,
+            "used_memory": 893
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 15384,
+            "used_memory": 896
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 15724,
+            "used_memory": 898
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1865,
+            "total_memory": 3986,
+            "uptime": 16047,
+            "used_memory": 900
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1857,
+            "total_memory": 3986,
+            "uptime": 16399,
+            "used_memory": 901
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1851,
+            "total_memory": 3986,
+            "uptime": 16755,
+            "used_memory": 903
+        },
+        {
+            "contracts": 1999,
+            "descriptors": 1755,
+            "total_memory": 3986,
+            "uptime": 17080,
+            "used_memory": 902
+        },
+        {
+            "contracts": 1997,
+            "descriptors": 1735,
+            "total_memory": 3986,
+            "uptime": 17405,
+            "used_memory": 903
+        }
+    ],
+    "pep2": [
+        {
+            "contracts": 2,
+            "descriptors": 7,
+            "total_memory": 3986,
+            "uptime": 10829,
+            "used_memory": 825
+        },
+        {
+            "contracts": 860,
+            "descriptors": 899,
+            "total_memory": 3986,
+            "uptime": 11159,
+            "used_memory": 822
+        },
+        {
+            "contracts": 2002,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 11524,
+            "used_memory": 825
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 11881,
+            "used_memory": 823
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 12247,
+            "used_memory": 966
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 12613,
+            "used_memory": 1229
+        },
+        {
+            "contracts": 2000,
+            "descriptors": 1871,
+            "total_memory": 3986,
+            "uptime": 12965,
+            "used_memory": 1278
+        },
+        {
+            "contracts": 1960,
+            "descriptors": 649,
+            "total_memory": 3986,
+            "uptime": 13318,
+            "used_memory": 1147
+        },
+        {
+            "contracts": 1932,
+            "descriptors": 649,
+            "total_memory": 3986,
+            "uptime": 13665,
+            "used_memory": 1153
+        },
+        {
+            "contracts": 1932,
+            "descriptors": 95,
+            "total_memory": 3986,
+            "uptime": 14007,
+            "used_memory": 1074
+        },
+        {
+            "contracts": 1317,
+            "descriptors": 73,
+            "total_memory": 3986,
+            "uptime": 14376,
+            "used_memory": 1059
+        },
+        {
+            "contracts": 1317,
+            "descriptors": 73,
+            "total_memory": 3986,
+            "uptime": 14715,
+            "used_memory": 1062
+        },
+        {
+            "contracts": 1030,
+            "descriptors": 67,
+            "total_memory": 3986,
+            "uptime": 15058,
+            "used_memory": 1057
+        },
+        {
+            "contracts": 1026,
+            "descriptors": 21,
+            "total_memory": 3986,
+            "uptime": 15396,
+            "used_memory": 970
+        },
+        {
+            "contracts": 1026,
+            "descriptors": 21,
+            "total_memory": 3986,
+            "uptime": 15736,
+            "used_memory": 971
+        },
+        {
+            "contracts": 1026,
+            "descriptors": 21,
+            "total_memory": 3986,
+            "uptime": 16059,
+            "used_memory": 974
+        },
+        {
+            "contracts": 1000,
+            "descriptors": 21,
+            "total_memory": 3986,
+            "uptime": 16411,
+            "used_memory": 973
+        },
+        {
+            "contracts": 1000,
+            "descriptors": 21,
+            "total_memory": 3986,
+            "uptime": 16767,
+            "used_memory": 975
+        },
+        {
+            "contracts": 999,
+            "descriptors": 21,
+            "total_memory": 3986,
+            "uptime": 17092,
+            "used_memory": 975
+        },
+        {
+            "contracts": 997,
+            "descriptors": 21,
+            "total_memory": 3986,
+            "uptime": 17418,
+            "used_memory": 971
+        }
+    ]
+}
